@@ -1,0 +1,4 @@
+name: no limit itemstack
+version: '1.0-SNAPSHOT'
+main: io.github.Ethan1319.noLimitItemstack.NoLimitItemstack
+api-version: '1.21'
